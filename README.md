@@ -2,8 +2,8 @@
 
 <p align="center">
   꾸준히 성장하는 프론트엔드 개발자입니다.
-</p>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
+</p>
 
 ---
 
